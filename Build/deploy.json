@@ -1,6 +1,6 @@
 {
-"companyName": "SACRED LEMON",
-"productName": "SIGIL",
+"companyName": "DefaultCompany",
+"productName": "ARWT",
 "productVersion": "0.1",
 "dataUrl": "deploy.data.unityweb",
 "wasmCodeUrl": "deploy.wasm",
